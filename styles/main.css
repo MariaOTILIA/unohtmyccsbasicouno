@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 18px;
+    font-family: Tahoma;
+}
+
+#contenedor {
+    color: rebeccapurple;
+    background-color: mediumpurple;
+    line-height: 1.5;
+    margin: 2px;
+    padding: 2px;
+}
+
+h1 {
+    color: rgb(89, 30, 89);
+    font-weight: normal;
+    font-size: 35px;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#parrafo-principal {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.link h3 {
+    color: rgb(89, 30, 89);
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Tahoma;
+    text-align: center;
+    padding: 10px;
+}
+
+.link ul {
+    color: rgb(58, 7, 58);
+    font-size: 22px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagen_plato {
+    margin: 25px;
+}
+
+#ubicacion {
+    font-size: 27px;
+    font-weight: normal;
+    margin: 24px;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.Descripcion_plato {
+    color: rgb(33, 16, 33);
+    font-size: 18px;
+    font-family: Tahoma;
+    margin: 30px;
+    text-align: justify;
+}
+
+.Descripcion_plato p {
+    padding: 30px;
+}
